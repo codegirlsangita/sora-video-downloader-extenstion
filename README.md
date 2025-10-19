@@ -1,7 +1,7 @@
 # Sora Video Downloader (for owned videos)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/<USERNAME>/<REPO>?style=social)](https://github.com/<USERNAME>/<REPO>/stargazers)
+[![Stars](https://img.shields.io/github/stars/<USERNAME>/<REPO>?style=social)](https://github.com/codegirlsangita/sora-video-downloader-extenstion/)
 
 > Lightweight Chrome extension that adds a **download/open** button to non-DRM playable `<video>` elements.  
 > **Important:** Use only for videos you own or have permission to download. This project does **not** bypass DRM or protected streams.
@@ -13,8 +13,7 @@
 - No backend required — entirely client-side.
 
 ## 📸 Screenshot
-![Screenshot showing download icon](/screenshot.png)
-*(Add `screenshot.png` to the repo root — GitHub will render it here.)*
+![Screenshot showing download icon](https://ik.imagekit.io/qsj9rwkvv/Screenshot%202025-10-19%20at%2010.07.22%E2%80%AFAM.png?updatedAt=1760848881602)
 
 ## ✅ Why this is safe & legal
 - This tool **does not** circumvent DRM or remove watermarks.
