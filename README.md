@@ -24,4 +24,4 @@
 ## 🔧 Installation (developer mode)
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/<USERNAME>/<REPO>.git](https://github.com/codegirlsangita/sora-video-downloader-extenstion)
+   git clone [https://github.com/codegirlsangita/sora-video-downloader-extenstion](https://github.com/codegirlsangita/sora-video-downloader-extenstion)
