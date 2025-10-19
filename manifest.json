@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Sora Video Downloader (for owned videos)",
+  "version": "1.2",
+  "description": "Adds a small download icon on every playable video (for personal/non-DRM use only).",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
